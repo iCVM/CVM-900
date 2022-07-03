@@ -155,16 +155,20 @@ CS6/0831.png
 CS6/0837.png
 CS6/0842.png
 CS6/0847.png
+CS6/0848.png
+CS6/0857.png
 CS6/0865.png
 CS6/0869.png
 CS6/0879.png
 CS6/0889.png
 CS6/0891.png
+CS6/0897.png
 CS6/0900.png
 CS6/0905.png
 CS6/0907.png
 CS6/0911.png
 CS6/0924.png
+CS6/0925.png
 CS6/0926.png
 CS6/0927.png
 CS6/0939.png
@@ -173,3 +177,4 @@ CS6/0945.png
 CS6/0948.png
 CS6/0951.png
 CS6/0960.png
+CS6/0962.png
